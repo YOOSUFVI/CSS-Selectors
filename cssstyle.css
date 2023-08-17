@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 50px;
+    border-radius: 20px;
+}
+p{
+    
+    color: rgb(14, 14, 14);
+    background-color: rgba(237, 46, 113, 0.588);
+    border-radius: 10px;
+
+}
+h6{ 
+    color: crimson;
+    text-align: center;
+}
